@@ -1,0 +1,32 @@
+body {
+    background-color: #F0F0F0
+}
+
+h1 {
+    color: #FF6A28;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+
+h2 {
+    color: #61656D;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    margin-top: 2px;
+}
+
+img {
+    margin-top: 14px;
+}
+
+div {
+    background-color: #FFFFFF;
+    padding: 20px 26px 12px 27px;
+    width: 798px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
